@@ -1,0 +1,8 @@
+.yarn
+.npm
+.next
+dist
+node_modules
+#public
+.github
+.husky
